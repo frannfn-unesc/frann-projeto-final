@@ -1,0 +1,17 @@
+{
+  "name": "projetofinalfrancine",
+  "version": "1.0.0",
+  "description": "Projeto Final Francine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.14"
+  }
+}
